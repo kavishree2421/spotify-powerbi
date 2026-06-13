@@ -1,1 +1,1 @@
-# spotify-powerbi
+Spotify Music Streaming Analysis Dashboard built using Power BI. The dashboard provides insights into streaming trends, top artists, genres, device usage, user subscriptions, and listening behavior through interactive visualizations and KPI cards.
